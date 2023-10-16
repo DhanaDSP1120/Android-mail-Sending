@@ -1,4 +1,4 @@
-# Android Mail Sending Project using JavaMail API (Developed on 2020)
+# Android Mail Sending Project using JavaMail API (Developed on year 2020)
 
 This Android application is a simple project that demonstrates how to send emails from an Android device using the JavaMail API. It allows users to compose and send emails through a dedicated interface.
 
